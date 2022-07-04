@@ -89,14 +89,14 @@ html {
     }
 
     .wrapper {
-        background: url("/img/vector1.png") no-repeat right 0, url("/img/fon6center.png") center 58% no-repeat;
+        background: url("../img/vector1.png") no-repeat right 0, url("../img/fon6center.png") center 58% no-repeat;
         background-color: #000000;
         display: flex;
         flex-direction: column;
     }
 
     .main {
-        background: url("/img/fonmain2.png") 0 center no-repeat, url("/img/mobile/Line.png")103px 503px no-repeat;
+        background: url("../img/fonmain2.png") 0 center no-repeat, url("../img/mobile/Line.png")103px 503px no-repeat;
         padding-left: 100px;
         padding-top: 15px;
         padding-bottom: 15px;
@@ -182,7 +182,7 @@ html {
     .content__phone {
         width: 611px;
         height: 957px;
-        background: url("/img/iphone.png");
+        background: url("../img/iphone.png");
     }
 
     .download {
@@ -221,7 +221,7 @@ html {
     /*second page*/
     .second {
         display: flex;
-        background: url("/img/secondfon1.png") 85% center no-repeat;
+        background: url("../img/secondfon1.png") 85% center no-repeat;
         flex-direction: column;
         padding-top: 153px;
         padding-right: 25px;
@@ -283,7 +283,7 @@ html {
     .second__image {
         width: 973px;
         height: 914px;
-        background: url("/img/second_phone.png");
+        background: url("../img/second_phone.png");
         display: flex;
         margin-right: -100px;
     }
@@ -326,7 +326,7 @@ html {
     }
 
     .third__content {
-        background: url("/img/fon3_2.png"), url("/img/fon_trist.jpg") no-repeat;
+        background: url("../img/fon3_2.png"), url("../img/fon_trist.jpg") no-repeat;
         background-size: 100%;
         display: flex;
         padding-left: 100px;
@@ -356,7 +356,7 @@ html {
     /*3page*/
     /*4 page*/
     .fourth {
-        background: url("/img/4pagefon.png") no-repeat;
+        background: url("../img/4pagefon.png") no-repeat;
         padding: 200px 100px 250px 100px;
         margin-bottom: 100px;
     }
@@ -406,7 +406,7 @@ html {
     }
 
     .pictures__item1 {
-        background: url("/img/item1.png");
+        background: url("../img/item1.png");
         position: absolute;
         right: 140px;
         width: 253px;
@@ -416,7 +416,7 @@ html {
     .pictures__item2 {
         width: 234px;
         height:46px;
-        background: url("/img/item2.png");
+        background: url("../img/item2.png");
         position: absolute;
         top: 185px;
         right: 338px;
@@ -425,7 +425,7 @@ html {
     .pictures__item3 {
         width: 193px;
         height: 116px;
-        background: url("/img/item3.png");
+        background: url("../img/item3.png");
         position: absolute;
         top: 250px;
         right: 511px;
@@ -434,7 +434,7 @@ html {
     .pictures__item4 {
         width: 183px;
         height: 194px;
-        background: url("/img/item4.png");
+        background: url("../img/item4.png");
         position: absolute;
         top: 182.5px;
         right: 84.3px;
@@ -443,7 +443,7 @@ html {
     .pictures__item5 {
         width: 195px;
         height: 119px;
-        background: url("/img/item5.png");
+        background: url("../img/item5.png");
         position: absolute;
         top: 293px;
         right: 255px;
@@ -452,7 +452,7 @@ html {
     .pictures__item6 {
         width: 195px;
         height: 118px;
-        background: url("/img/item6.png");
+        background: url("../img/item6.png");
         position: absolute;
         top: 393px;
         right: 328px;
@@ -461,7 +461,7 @@ html {
     .pictures__item7 {
         width: 282px;
         height: 57px;
-        background: url("/img/item7.png");
+        background: url("../img/item7.png");
         position: absolute;
         top: 466px;
         right: 0;
@@ -470,7 +470,7 @@ html {
     /*4 page*/
     /*5 page*/
     .fifth {
-        background: url("/img/5pagelogo.png") 92% 0 no-repeat, url("/img/fon5_1.png") no-repeat top, url("/img/fon5_2.png") no-repeat 0 -50px, url("/img/fon5_3.png") no-repeat right -50px;
+        background: url("../img/5pagelogo.png") 92% 0 no-repeat, url("../img/fon5_1.png") no-repeat top, url("../img/fon5_2.png") no-repeat 0 -50px, url("../img/fon5_3.png") no-repeat right -50px;
         background-size: auto, contain, auto, auto;
     }
 
@@ -514,7 +514,7 @@ html {
     /*5 page*/
     /*6 page*/
     .sixth {
-        background: url("/img/mainfon6.png") 0 150px no-repeat;
+        background: url("../img/mainfon6.png") 0 150px no-repeat;
         background-size: contain;
         margin-bottom: 190px;
     }
@@ -566,7 +566,7 @@ html {
 
     .arrow__text {
         height: 100px;
-        background: url("/img/arrow.png") no-repeat;
+        background: url("../img/arrow.png") no-repeat;
         display: flex;
         flex-direction: column;
         width: 278px;
@@ -600,7 +600,7 @@ html {
     .seventh {
         display: flex;
         flex-direction: column;
-        background: url("/img/seventhphonevector.png") no-repeat top right;
+        background: url("../img/seventhphonevector.png") no-repeat top right;
     }
 
     .seventh__text {
@@ -614,7 +614,7 @@ html {
         position: relative;
         width: 868px;
         height: 1039px;
-        background: url("/img/seventhfoncenter.png");
+        background: url("../img/seventhfoncenter.png");
     }
 
     .seventh__cards {
@@ -688,7 +688,7 @@ html {
 
     /*7 page*/
     .eigth_last {
-        background: url("/img/last3fon.png") 15% 32% no-repeat, url("/img/fon8.png") no-repeat;
+        background: url("../img/last3fon.png") 15% 32% no-repeat, url("../img/fon8.png") no-repeat;
         background-size: auto, 100% 40%;
     }
 
@@ -712,7 +712,7 @@ html {
         padding-bottom: 25px;
         width: 859px;
         height: 429px;
-        background: url("/img/fon8center.png") no-repeat;
+        background: url("../img/fon8center.png") no-repeat;
         display: flex;
         justify-content: center;
     }
@@ -720,7 +720,7 @@ html {
     /*8page*/
     /*9page*/
     .last {
-        background: url("/img/lastlast.png") no-repeat left bottom, url("/img/last2fon.png") no-repeat right;
+        background: url("../img/lastlast.png") no-repeat left bottom, url("../img/last2fon.png") no-repeat right;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -839,13 +839,13 @@ html {
     .appstore_img{
         width: 259px;
         height: 82px;
-        background: url("/img/appstore.png");
+        background: url("../img/appstore.png");
         margin-right: 40px;
     }
     .googleplay_img{
         width: 293px;
         height: 82px;
-        background: url("/img/googleplay.png");
+        background: url("../img/googleplay.png");
     }
     .last__footer {
 
@@ -874,7 +874,7 @@ html {
         width: 82px;
         height: 17px;
         margin-bottom: 15px;
-        background: url("/img/lastlogo.png");
+        background: url("../img/lastlogo.png");
     }
 
     .last__contact {
@@ -958,14 +958,14 @@ html {
 @media (max-width: 375px) {
     .wrapper{
         padding-top: 40px;
-        background: url("/img/mobile/vector4.png")0 89% no-repeat;
+        background: url("../img/mobile/vector4.png")0 89% no-repeat;
         background-color: black;
         width: 375px;
         overflow: hidden;
 
     }
     .main{
-        background: url("/img/mobile/vector1.png");
+        background: url("../img/mobile/vector1.png");
         margin-bottom: 70px;
         padding-right: 15px;
         padding-left: 15px;
@@ -1048,7 +1048,7 @@ html {
         top: 100px;
         width: 173px;
         height: 463px;
-        background-image: url("/img/mobile/iPhoneimage.png");
+        background-image: url("../img/mobile/iPhoneimage.png");
     }
     .download{
         display: flex;
@@ -1079,7 +1079,7 @@ html {
     }
     /*2 page*/
     .second {
-        background: url("/img/mobile/vector2.png") 0 35% no-repeat;
+        background: url("../img/mobile/vector2.png") 0 35% no-repeat;
         padding-right: 15px;
         padding-left: 15px;
         padding-bottom: 140px;
@@ -1131,7 +1131,7 @@ html {
     .second__image {
         width: 100%;
         height: 500px;
-        background: url("/img/mobile/iphone2page.png") 15px 0;
+        background: url("../img/mobile/iphone2page.png") 15px 0;
     }
 
     .second__text {
@@ -1168,7 +1168,7 @@ html {
         padding-top: 224px;
         padding-right: 15px;
         padding-left: 15px;
-        background: url("/img/mobile/3pagefon1.png") no-repeat, url("/img/mobile/3pagefon2.png") no-repeat;
+        background: url("../img/mobile/3pagefon1.png") no-repeat, url("../img/mobile/3pagefon2.png") no-repeat;
     }
 
     .third__content {
@@ -1218,7 +1218,7 @@ html {
         top: 159px;
         width: 115px;
         height: 86px;
-        background: url("/img/mobile/4page1.png");
+        background: url("../img/mobile/4page1.png");
     }
 
     .pictures__item2 {
@@ -1227,7 +1227,7 @@ html {
         left: 36px;
         width: 110px;
         height: 22px;
-        background: url("/img/mobile/4page2.png");
+        background: url("../img/mobile/4page2.png");
     }
 
     .pictures__item3 {
@@ -1236,7 +1236,7 @@ html {
         left: 163px;
         width: 212px;
         height: 60px;
-        background: url("/img/mobile/4page3.png");
+        background: url("../img/mobile/4page3.png");
     }
 
     .pictures__item4 {
@@ -1246,7 +1246,7 @@ html {
         left: 279px;
         width: 86px;
         height: 91px;
-        background: url("/img/mobile/4page6.png");
+        background: url("../img/mobile/4page6.png");
     }
 
     .pictures__item6 {
@@ -1255,7 +1255,7 @@ html {
         left: 193px;
         width: 91px;
         height: 56px;
-        background: url("/img/mobile/4page4.png");
+        background: url("../img/mobile/4page4.png");
 
     }
 
@@ -1265,7 +1265,7 @@ html {
         left: 134px;
         width: 91px;
         height: 56px;
-        background: url("/img/mobile/4page5.png");
+        background: url("../img/mobile/4page5.png");
 
     }
 
@@ -1280,7 +1280,7 @@ html {
     /*5page*/
     .fifth {
         padding-top: 227px;
-        background: url("/img/mobile/5fon1.png") no-repeat, url("/img/mobile/5fon2.png") no-repeat, url("/img/mobile/5fon3.png") right 38% no-repeat, url("/img/mobile/5fon4.png") 30px 38% no-repeat;
+        background: url("../img/mobile/5fon1.png") no-repeat, url("../img/mobile/5fon2.png") no-repeat, url("../img/mobile/5fon3.png") right 38% no-repeat, url("../img/mobile/5fon4.png") 30px 38% no-repeat;
         padding-right: 15px;
         padding-left: 15px;
     }
@@ -1315,7 +1315,7 @@ html {
 
     /*6page*/
     .sixth {
-        background: url("/img/mobile/Arrow.png")310px 93% no-repeat, url("/img/mobile/6pagefon1.png") center 100% no-repeat, url("/img/mobile/6pagefon2.png")center 65% no-repeat;
+        background: url("../img/mobile/Arrow.png")310px 93% no-repeat, url("../img/mobile/6pagefon1.png") center 100% no-repeat, url("../img/mobile/6pagefon2.png")center 65% no-repeat;
         padding-top: 80px;
         padding-left: 15px;
         padding-right: 15px;
@@ -1371,7 +1371,7 @@ html {
 
     /*7page*/
     .seventh {
-        background: url("/img/mobile/vector3.png") center no-repeat;
+        background: url("../img/mobile/vector3.png") center no-repeat;
         padding-left: 15px;
         padding-right: 15px;
     }
@@ -1395,7 +1395,7 @@ html {
         position: relative;
         width: 353px;
         height: 430px;
-        background: url("/img/mobile/7fon.png") no-repeat;
+        background: url("../img/mobile/7fon.png") no-repeat;
     }
 
     .seventh__card1 {
@@ -1423,7 +1423,7 @@ html {
     .seventh__card2 {
         position: absolute;
         top: 19px;
-        right: 0px;
+        right: 0;
         width: 171px;
         height: 62px;
         background: #000000;
@@ -1458,7 +1458,7 @@ html {
     }
     /*last*/
     .last {
-        background: url("/img/mobile/vector5.png")0 85%no-repeat, url("/img/mobile/vector6.png")0 100% no-repeat;
+        background: url("../img/mobile/vector5.png")0 85%no-repeat, url("../img/mobile/vector6.png")0 100% no-repeat;
         padding: 147px 15px 24px 15px;
     }
 
@@ -1547,13 +1547,13 @@ html {
     .appstore_img{
         width: 187px;
         height: 62px;
-        background: url("/img/mobile/lastaple.png");
+        background: url("../img/mobile/lastaple.png");
         margin-bottom: 24px;
     }
     .googleplay_img{
         width: 187px;
         height: 62px;
-        background: url("/img/mobile/lastgoogle.png");
+        background: url("../img/mobile/lastgoogle.png");
     }
     .last__footer {
         display: flex;
@@ -1570,7 +1570,7 @@ html {
     .last__logo {
         height: 15px;
         width: 71px;
-        background: url("/img/mobile/lastlogo.png");
+        background: url("../img/mobile/lastlogo.png");
         margin-bottom: 17px;
     }
 
